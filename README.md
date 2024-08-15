@@ -29,9 +29,3 @@ To build and run this project, you will need the following:
 - SQL Server or another compatible database
 - Visual Studio or another C# IDE
 
-### Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/Pims.git
